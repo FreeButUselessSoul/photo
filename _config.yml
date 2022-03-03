@@ -3,8 +3,8 @@ image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
 # UI configs
-title: "Photography by ZCX"
-subtitle: "ZCX@2022"
+title: "Gallery"
+subtitle: "ZCX,HQ@2022"
 author:  "ZCX"
 header:
  title: "Photography"
