@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+# Base configs
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+
+# UI configs
+title: "Photography by ZCX"
+subtitle: "See the world through my eyes!"
+author:  "ZCX"
+header:
+ title: "Photography"
+ subtitle: "by ZCX"
+footer:
+ name: "ZCX Here."
+ bio: "a photographer in PKU, former chief editor in photography of PKU's Official Weibo/Wechat Account."
+social_urls:
+  weixin: "ZCX__2001"
+  qq: "576587568"
+  # github: "https://github.com/FreeButUselessSoul"
+
+theme: jekyll-theme-slate
